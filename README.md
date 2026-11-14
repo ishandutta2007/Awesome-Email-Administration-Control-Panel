@@ -15,24 +15,29 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global email hosting and administration software market is estimated at approximately $37 billion to $42 billion in 2026, expanding at an annual growth rate of 6% to 9%. The sector exhibits high concentration at the general enterprise tier—dominated by a winner-take-most duopoly between Microsoft 365 and Google Workspace—alongside moderate fragmentation in specialized web-hosting control panels (cPanel/Plesk under WebPros) and niche self-hosted or sovereign email administration suites.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Zoho Mail Admin](https://www.zoho.com/mail/)** | Admin console for Zoho Mail with domain management, user provisioning, and policy controls. **Mail Lite (5GB): $1/user/month** (annual); Workplace Standard: $3/user/month . | Mail Lite: **$1/user/month** (annual); Workplace Standard: **$3/user/month**  | **Free plan** available for up to 5 users (web access only, no IMAP/POP); **15-day trial** for paid plans |
-| **[Google Workspace Admin Console](https://workspace.google.com/)** | Centralized admin for Gmail, Drive, and Workspace apps. User management, security policies, and audit logs. **Business Starter: $7/user/month** (annual); Flexible: $8.40/user/month . | Business Starter: **$7/user/month** (annual); Flexible: **$8.40/user/month**  | **14-day free trial**; no permanent free tier  |
-| **[Microsoft 365 Admin Center](https://www.microsoft.com/en-us/microsoft-365/)** | Admin portal for Exchange Online, Teams, and Microsoft 365 services. **Business Basic: ~$6/user/month** (annual); Business Standard: ~$12.50/user/month (2026 pricing adjustments apply) . | Business Basic: **~$6/user/month** (annual)  | **1-month free trial** for Business plans; no permanent free tier |
-| **[cPanel](https://cpanel.net/)** | Industry-standard web hosting control panel with email administration, domain management, and one-click installers. **Solo: $27.46/month** (annual, 1 account); Admin: $32.96/month (5 accounts); Pro: $49.46/month (30 accounts) . | Solo: **$27.46/month** (annual); Admin: $32.96; Pro: $49.46  | **No free tier**; trial via hosting provider |
-| **[Plesk](https://www.plesk.com/)** | Web hosting and server management panel with email, DNS, and WordPress toolkit. **Web Admin Edition: up to 10 domains**; Web Pro: 30 domains; Web Host: unlimited . | Quote-only (edition-based); **14-day free trial** available  | **14-day free trial** (no credit card)  |
-| **[Zimbra Administration Console](https://www.zimbra.com/)** | Admin console for Zimbra Collaboration. User/domain management, COS policies, and server monitoring. Open-source edition available via Zimbra's GitHub repositories . | Quote-only (commercial); open-source edition free to self-host | **Open-source edition** available; commercial trial via sales |
-| **[Intermedia HostPilot](https://www.intermedia.net/)** | Control panel for Intermedia's hosted Exchange and email services. User management, security policies, and migration tools. | From **~$20/user/month** (phone bundled; email plans vary)  | Free trial available |
-| **[MailEnable](https://www.mailenable.com/)** | Windows mail server with web admin. **Standard Edition: FREE**; Professional: **$395**; Enterprise: **$795**; Enterprise Premium: **$1,295** (one-time) . | Standard: **Free**; Professional: **$395** (one-time); Enterprise: **$795**  | **Free (Standard Edition)**: SMTP, IMAP, POP3, webmail for Windows servers |
-| **[IceWarp](https://www.icewarp.com/)** | Full collaboration suite with web admin. **Core: $1.15/user/month** (annual, 2GB mail); Essential: $1.90/user/month (50GB); Business: $3.44/user/month (200GB) . | Core: **$1.15/user/month** (annual); Essential: $1.90; Business: $3.44  | **30-day free trial** (no payment required)  |
+| Product | Valuation / Scale (Descending) | Description | Pricing (Starting) | Free Tier / Trial Limits |
+|---------|--------------------------------|-------------|-------------------|--------------------------|
+| **[Microsoft 365 Admin Center](https://www.microsoft.com/en-us/microsoft-365/)** | ~$3.87T Market Cap (~$332B ARR) | Admin portal for Exchange Online, Teams, and Microsoft 365 services. | **$6.00/user/month** (Business Basic, annual commitment) | **30-day free trial** capped at 25 user licenses; no permanent free plan |
+| **[Google Workspace Admin Console](https://workspace.google.com/)** | ~$3.50T Market Cap (~$403B ARR) | Centralized admin for Gmail, Drive, and Workspace apps. User management, security policies, and audit logs. | **$7.00/user/month** (Business Starter, annual commitment; $8.40/user/month flexible) | **14-day free trial** capped at 10 user licenses; no permanent free plan |
+| **[Zoho Mail Admin](https://www.zoho.com/mail/)** | ~$12.5B Valuation (~$1.4B ARR) | Admin console for Zoho Mail with domain management, user provisioning, and policy controls. | **$1.00/user/month** (Mail Lite, annual commitment; 5GB storage/user) | **Forever free plan** for up to 5 users (5GB storage/user, webmail-only, no IMAP/POP); **15-day free trial** for paid plans |
+| **[cPanel](https://cpanel.net/)** | ~$1.7B Valuation (WebPros Group, ~$120M EBITDA) | Industry-standard web hosting control panel with email administration, domain management, and one-click installers. | **$27.46/month** (Solo plan, annual commitment; 1 cPanel account) | **15-day free trial** capped at 30 cPanel accounts (one trial per qualifying static IP); no permanent free plan |
+| **[Plesk](https://www.plesk.com/)** | ~$1.7B Valuation (WebPros Group, ~$120M EBITDA) | Web hosting and server management panel with email, DNS, and WordPress toolkit. | **$15.57/month** (Web Admin Edition, VPS, annual commitment; up to 10 domains) | **14-day free trial** with full feature access; no permanent free plan |
+| **[Intermedia HostPilot](https://www.intermedia.net/)** | ~$1.8B Valuation (~$450M ARR) | Control panel for Intermedia's hosted Exchange and email services. User management, security policies, and migration tools. | **$7.49/user/month** (Hosted Exchange Base Email plan) | **30-day free trial** available via sales consultation/evaluation signup; no permanent free plan |
+| **[Zimbra Administration Console](https://www.zimbra.com/)** | ~$92M Synacor Buyout (~$75M ARR) | Admin console for Zimbra Collaboration. User/domain management, COS policies, and server monitoring. Open-source edition available via Zimbra's GitHub repositories. | **~$20.00/mailbox/year** (~$1.67/user/month equivalent for standard commercial tiers, minimum 25 seats; open-source edition free) | **60-day free trial** for Zimbra Network Edition (up to 50 mailboxes); free forever via community Open-Source Edition (self-hosted) |
+| **[IceWarp](https://www.icewarp.com/)** | Bootstrapped (~$11M ARR) | Full collaboration suite with web admin covering mailboxes, domains, and team collaboration. | **$1.15/user/month** (Core plan, annual commitment; 2GB email storage per user) | **30-day free trial** capped at 50 users and 20GB cloud storage; no permanent free plan |
+| **[MailEnable](https://www.mailenable.com/)** | Private Boutique (<$5M ARR) | Windows mail server with web admin and server administration console. | **$395.00 one-time** (Professional Edition license; or $0 for Standard Edition) | **Forever free Standard Edition** (unlimited domains and mailboxes for Windows Server, supports SMTP/POP3/IMAP/webmail); **60-day free trial** for Enterprise Edition |
 
 ## Open-Source GitHub Projects
 
