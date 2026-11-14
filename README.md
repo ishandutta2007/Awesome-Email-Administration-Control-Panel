@@ -1,6 +1,6 @@
 # Awesome-Email-Administration-Control-Panel
 
-# Top Email Administration & Control Panel Ecosystem
+## Top Email Administration & Control Panel Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Mail Server Management, Domain Administration & Self-Hosted Control Panels*  
