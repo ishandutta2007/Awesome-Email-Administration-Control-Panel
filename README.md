@@ -65,7 +65,7 @@ Market dynamics demonstrate **high concentration (winner-take-most duopoly)** at
 
 *Ranked in descending order by GitHub stargazers count.*
 
-| 📦 Repository | ⭐ GitHub Stars | 📖 Description &amp; Highlights |
+| 📦 Repository | ⭐ GitHub_Stars | 📖 Description &amp; Highlights |
 |:---|:---:|:---|
 | **[docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)** | [![Stars](https://img.shields.io/github/stars/docker-mailserver/docker-mailserver?style=social&color=white)](https://github.com/docker-mailserver/docker-mailserver/stargazers) | 🐳 **Production-ready containerized mail server.** Minimalist, highly configurable Docker image combining Postfix, Dovecot, Rspamd, ClamAV, and OpenDKIM with simple CLI and file-based administration. |
 | **[Stalwart Mail Server](https://github.com/stalwartlabs/mail-server)** | [![Stars](https://img.shields.io/github/stars/stalwartlabs/mail-server?style=social&color=white)](https://github.com/stalwartlabs/mail-server/stargazers) | ⚡ **Next-generation all-in-one mail server written in Rust.** Features a sleek, modern built-in Web Management Admin UI, native JMAP/IMAP4/SMTP support, internal directory services, and high-performance routing. |
@@ -89,7 +89,7 @@ Contributions are warmly encouraged! To suggest a new email administration panel
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a New Branch** (`git checkout -b feature/add-new-control-panel`).
 3. 📝 **Add or Edit Entries** in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Email-Administration-Control-Panel/README.md) following the existing Markdown table format.
-4. 🔍 **Verify Criteria**: Ensure accurate pricing, exact free tier limits, GitHub star badges, and factual descriptions.
+4. 🔍 **Verify Criteria**: Ensure accurate pricing, exact free tier limits, GitHub Stars_Badges, and factual descriptions.
 5. 🚀 **Submit a Pull Request** with a brief summary of the addition or update.
 
 ---
